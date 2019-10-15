@@ -1,0 +1,26 @@
+{
+  "name": "insomnia-plugin-default-queries",
+  "version": "0.0.1",
+  "author": "Andre Duvoisin <andre@andreduvoisin.com>",
+  "description": "Add default queries to Insomnia requests.",
+  "license": "MIT",
+  "homepage": "https://github.com/andreduvoisin/insomnia-plugin-default-queries#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreduvoisin/insomnia-plugin-default-queries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreduvoisin/insomnia-plugin-default-queries/issues"
+  },
+  "insomnia": {
+    "name": "default-queries",
+    "description": "Add default queries to Insomnia requests."
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
