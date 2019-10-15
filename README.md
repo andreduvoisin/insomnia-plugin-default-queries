@@ -1,5 +1,7 @@
 # insomnia-plugin-default-queries
 
+[![npm](https://img.shields.io/npm/v/insomnia-plugin-default-queries)](https://www.npmjs.com/package/insomnia-plugin-default-queries)
+
 This is a plugin for [Insomnia](https://insomnia.rest) that allows users to set default
 queries for requests.
 
