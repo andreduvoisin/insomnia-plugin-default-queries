@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-default-queries",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Andre Duvoisin <andre@andreduvoisin.com>",
   "description": "Add default queries to Insomnia requests.",
   "license": "MIT",
